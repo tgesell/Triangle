@@ -3,7 +3,7 @@ public class Point
     /**
      * Constructor for objects of class Point
      */
-    
+
     public Point()
     {
 
@@ -13,5 +13,9 @@ public class Point
     }
     public int getY()
     {
+    }
+    public String toString()
+    {
+
     }
 }

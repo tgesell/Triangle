@@ -7,10 +7,23 @@ public class LineSegment
     {
 
     }
-    public Point getP1(){
+
+    public Point getP1()
+    {
 
     }
-    public Point getP2(){
 
-    }  
+    public Point getP2()
+    {
+
+    }
+
+    public double length()
+    {
+
+    }
+    public String toString()
+    {
+
+    }
 }
